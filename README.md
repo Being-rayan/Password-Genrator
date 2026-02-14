@@ -7,7 +7,6 @@ This project demonstrates core Java concepts such as input handling, random numb
 How to Run
 
 Compile the program:
-
 javac PasswordGenerator.java
 
 
