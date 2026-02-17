@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class PasswordGenerator {
  public static void main(String[] args) {
  Scanner scanner = new Scanner(System.in);
- System.out.print("Enter the total length of the password: ");
+ System.out.print("Enter the total length of the password: "); 
+
  int length = scanner.nextInt();
  System.out.print("Enter the number of special characters to include: ");
  int specialCharCount = scanner.nextInt();
